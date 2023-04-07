@@ -5,5 +5,5 @@ In the both project directory, you can run:
 For backend add `.env` file attached in email.
 
 # Sample Image:-
-![project](https://user-images.githubusercontent.com/94789421/228611376-2783458d-44d5-4e4e-afae-41d9ce600569.jpeg)
-![image](https://user-images.githubusercontent.com/94789421/228612426-d9653a53-f2f5-449f-9ba1-9909b331baff.png)
+![image](https://user-images.githubusercontent.com/94789421/230615798-fe791fec-6aea-47e9-bc13-275b77f1f706.png)
+![image](https://user-images.githubusercontent.com/94789421/230615944-1c81fdbc-a7f8-4a62-aa45-5f8bb9725585.png)
